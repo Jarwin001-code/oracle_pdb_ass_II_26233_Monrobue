@@ -22,10 +22,10 @@ Create a PDB and a user inside it for future class work.
 
 
 - Screenshot showing **PDB open state**  
-![PDB Open State Screenshot](./img/mo_pdb.png)  
+![PDB Open State Screenshot](./mo_pdb.png)  
 
 - Screenshot showing **user created inside the PDB**  
-![User Created Screenshot](./img/all_mo_pdb.png)  
+![User Created Screenshot](./all_mo_pdb.png)  
 
 ---
 
@@ -44,15 +44,16 @@ Create a temporary PDB, verify it exists, then delete it completely.
 **Evidence:**  
 
 - Screenshot showing **temporary PDB created**  
-![Temporary PDB Created](./img/mo_delete.png)  
+![Temporary PDB Created](./mo_delete.png)  
 
 - Screenshot showing **temporary PDB deleted**  
-![Temporary PDB Deleted](./img/drop_mo.png)  
+![Temporary PDB Deleted](./drop_mo.png)  
 
 ---
 
 Repository Link: https://github.com/Jarwin001-code/oracle_pdb_ass_II_26233_Monrobue<br>
 PDB Name Created: mo_pdb_26233
 Issues Encountered: Yes(On my pc OEM GUI is not working)
+
 
 
